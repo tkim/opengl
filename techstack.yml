@@ -1,0 +1,33 @@
+repo_name: tkim/opengl
+report_id: c8388b1bcd24ea6ee2167a268199fab3
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T14:52:16+00:00'
+requested_by: tkim
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tkim/opengl
+  detection_source: Repo Metadata
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/tkim/opengl/blob/main/OpenGL/OpenGL.sln
+  detection_source: OpenGL/OpenGL.sln
+  last_updated_by: Terrence Kim
+  last_updated_on: 2021-04-27 22:22:31.000000000 Z
